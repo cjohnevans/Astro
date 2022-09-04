@@ -1,5 +1,6 @@
 # astroquery - remote query if astronomy data from online repositories
-#  e.g https://vizier.u-strasbg.fr/viz-bin/VizieR
+#  e.g https://vizier.u-strasbg.fr/viz-bin/Vizier
+#  requires 'astro' conda environment (on deneb)
 
 from astroquery.vizier import Vizier
 from astroquery.simbad import Simbad

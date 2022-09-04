@@ -1,4 +1,6 @@
 # based on AAVSO webinar on Python for astronomy (3/9/2022)
+#  requires 'astro' conda environment (on deneb)
+
 import matplotlib.pyplot as plt
 import numpy as np
 from astropy.io import fits  

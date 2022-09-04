@@ -1,4 +1,6 @@
 #plotlightcurve
+# original version - based on BAA database
+# paths will need to be updated
 
 import os
 import csv

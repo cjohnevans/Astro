@@ -1,10 +1,10 @@
+#  requires 'astro' conda environment (on deneb)
+#loading a light curve from the aavso from the database
+# recommend - no discrepant data (judged to be outliners), no diff and step data and csv files.
+
 import matplotlib.pyplot as plt
 import numpy as np
 from astropy.table import Table  
-#import astroquery
-
-#loading a light curve from the aavso from the database
-# recommend - no discrepant data (judged to be outliners), no diff and step data and csv files.
 
 lightcurve_file = 'aavsodata_v1405.csv'
 
