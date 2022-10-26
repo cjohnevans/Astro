@@ -16,6 +16,7 @@ import matplotlib.pyplot as plt
 from scipy import optimize, fft
 from scipy.interpolate import interp1d
 import numpy as np
+import os
 
 class LightCurve:
     jd_obs = []         # observation (unprocessed) JD
@@ -35,15 +36,18 @@ class LightCurve:
         # for Middle Room PC
         #vssdir='C:\\Users\\cjohn\\OneDrive\\Astronomy\\variablestars\\data_baa'
         # for Study PC
-        vssdir='C:\\Users\\User\\OneDrive\\Astronomy\\variablestars\\data_baa'
+        #vssdir='C:\\Users\\User\\OneDrive\\Astronomy\\variablestars\\data_baa'
+        # deneb
+        vssdir='/home/john/astro/variable_star_data'
 
         #vssfile='Z UMA_20210619_100143.csv'
         #vssfile='Z UMA_20210629_133403.csv'
-        vssfile='TX DRA_20210709_152330.csv'
+        #vssfile='TX DRA_20210709_152330.csv'
         #vssfile='AH DRA_20210621_221943.csv'
+        vssfile = 'AH_DRA_20220912_201510.csv'
         self.star=vssfile.split('_')[0]
         print(self.star)
-        vssfullpath = vssdir + '\\' + vssfile
+        vssfullpath = os.path.join(vssdir, vssfile)
 
         #jd = []
         #mag = []
@@ -151,7 +155,7 @@ class LightCurve:
 lc = LightCurve()
 lc.loadbaacurve()
 lc.datasummary()
-dt_interp = lc.preproc(True, 4)
-lc.plotmag()
-lc.plotfft(dt_interp)
+#dt_interp = lc.preproc(True, 4)
+#lc.plotmag()
+#lc.plotfft(dt_interp)
 
