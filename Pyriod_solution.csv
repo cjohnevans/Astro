@@ -1,0 +1,2 @@
+label,include,freq,fixfreq,freqerr,amp,fixamp,amperr,phase,brute,fixphase,phaseerr
+f0,True,210.57341121773342,False,4.04443298582422e-06,133.23933511564834,False,0.002410596711645471,0.6355549092259025,False,False,2.836350075448968e-06
