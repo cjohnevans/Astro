@@ -1,0 +1,8 @@
+alias gphoto2auto='gphoto2 --auto-detect'
+alias gphoto2config='gphoto2 --list-all-config | grep -v '\''Choice'\'' | grep '\''Label\|Current'\'''
+alias gphoto2configset='gphoto2 --set-config'
+alias gphoto2shutter1='gphoto2 --set-config shutterspeed=1'
+alias gphoto2shutter10='gphoto2 --set-config shutterspeed=10'
+alias gphoto2shutter1_4='gphoto2 --set-config shutterspeed=1/4'
+alias gphoto2shutter30='gphoto2 --set-config shutterspeed=30'
+alias gphoto2shutter5='gphoto2 --set-config shutterspeed=5'

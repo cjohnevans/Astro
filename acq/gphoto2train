@@ -1,0 +1,48 @@
+#!/bin/bash
+
+echo $1
+
+if [ -z $1 ]
+  then
+    echo "  gphoto2train <shutterspeed> <delay> <no_images>"
+    echo "    Acquire a train of images"
+    echo "    shutterspeed = shutterspeed" 
+    echo "    delay = required time between images (min 9 sec)"
+    echo "    no_image = total number of images to acquire" 
+    echo
+    exit
+fi
+
+gphoto2 --set-config shutterspeed=$1
+gphoto2 --list-all-config | grep -A 3 'ISO Speed\|Aperture\|Shutter Speed'
+
+# acquisition time, with zero delay, is approx 9s
+
+let delay=$2-9
+if [ $delay -lt 0 ]
+  then
+    delay=0
+fi
+
+echo $delay
+
+# calculate dead time, accounting for shutterspeed and 9s camera delay
+let time=($1+$delay+9)*$3
+let time_m=$time/60
+let time_h=$time/3600
+echo 
+echo
+echo "Approx total acquisition time: " $time " s"
+echo "                               " $time_m " min"
+echo "                               " $time_h " hr"
+echo
+
+for i in $(seq 1 1 $3)
+do
+  echo "Image " $i " of " $3
+  gphoto2 --capture-image-and-download --keep
+  sleep $delay
+done
+
+echo "Done!"
+

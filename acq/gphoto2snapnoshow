@@ -1,0 +1,6 @@
+#!/bin/bash
+
+gphoto2 --list-all-config | grep -A 3 'ISO Speed\|Aperture\|Shutter Speed'
+gphoto2 --capture-image-and-download --keep
+
+
