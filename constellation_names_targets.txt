@@ -1,0 +1,46 @@
+Nominative 	Genitive 	Abbreviation
+Andromeda 	Andromedae 	And 	 
+Aquarius 	Aquarii 	Aqr
+Aquila 	Aquilae 	Aql
+Aries 	Arietis 	Ari
+Auriga 	Aurigae 	Aur
+Bootes 	Bootis 	Boo
+Camelopardalis 	Camelopardalis 	Cam
+Cancer 	Cancri 	Cnc
+Canes Venatici 	Canum Venaticorum 	CVn
+Canis Major 	Canis Majoris 	CMa
+Canis Minor 	Canis Minoris 	CMi
+Capricornus 	Capricorni 	Cap
+Cassiopeia 	Cassiopeiae 	Cas
+Cepheus 	Cephei 	Cep
+Cetus 	Ceti 	Cet
+Coma Berenices 	Comae Berenices 	Com
+Corona Borealis 	Coronae Borealis 	CrB
+Cygnus 	Cygni 	Cyg
+Delphinus 	Delphini 	Del
+Draco 	Draconis 	Dra
+Equuleus 	Equulei 	Equ
+Gemini 	Geminorum 	Gem
+Hercules 	Herculis 	Her
+Lacerta 	Lacertae 	Lac
+Leo 	Leonis 	Leo
+Leo Minor 	Leonis Minoris 	LMi
+Lepus 	Leporis 	Lep
+Libra 	Librae 	Lib
+Lynx 	Lyncis 	Lyn
+Lyra 	Lyrae 	Lyr
+Monoceros 	Monocerotis 	Mon
+Ophiuchus 	Ophiuchi 	Oph
+Orion 	Orionis 	Ori
+Pegasus 	Pegasi 	Peg
+Perseus 	Persei 	Per
+Pisces 	Piscium 	Psc
+Sagitta 	Sagittae 	Sge
+Serpens 	Serpentis 	Ser
+Sextans 	Sextantis 	Sex
+Taurus 	Tauri 	Tau
+Triangulum 	Trianguli 	Tri
+Ursa Major 	Ursae Majoris 	UMa
+Ursa Minor 	Ursae Minoris 	UMi
+Virgo 	Virginis 	Vir
+Vulpecula 	Vulpeculae 	Vul
