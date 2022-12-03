@@ -1,0 +1,641 @@
+Star,Con,RA,Dec,Type,Max,Min,Period,Chart,Class,Eclipse Duration
+R,And,00 24,+38 35,M,5.8,15.2,409.2,53.02,pulsating
+W,And,02 18,+44 18,M,6.7,14.6,397.3,35.02,pulsating
+AQ,And,00 28,+35 35,SRb,7.7,9.5,169,303.01,pulsating
+BZ,And,00 38,+45 36,Lb,7.7,8.6,,304.01,pulsating
+RS,And,23 55,+48 38,SRa,7,9.4,136,334.01,pulsating
+RW,And,00 47,+32 41,M,7.9,15.7,430,22.01,pulsating
+SU,And,00 05,+43 33,Lc,8,8.5,,345.01,pulsating
+TZ,And,23 51,+47 31,Lb,8,9.3,,334.01,pulsating
+UX,And,02 33,+45 39,SRb,8.2,9.9,200,AAVSO,pulsating
+VX,And,00 20,+44 43,SRa,7.5,9.7,375,345.01,pulsating
+V370 ,And,01 59,+45 26,SRb,6.85,8.05,119,AAVSO,pulsating
+NSV15486 (TAV 0216 +48),And,02 19,+48 14,Lb,9.5,10.5p,,TA,pulsating
+,,,,,,,,,pulsating
+R,Aql,19 06,+08 14,M,5.5,12,270.5,30.02,pulsating
+S,Aql,20 12,+15 37,SRa,8.9,12.8,146.45,AAVSO,pulsating
+V,Aql,19 04,-05 41,SRb,6.6,8.4,353,26.04,pulsating
+UW,Aql,18 57,+00 27,Lc,8.9,9.5,,28.01,pulsating
+V450,Aql,19 34,+05 28,SRb,6.14,6.86,64.2,70.02,pulsating
+,,,,,,,,,pulsating
+R,Aqr,23 44,-15 17,M,5.2,12.4,387,96.01,pulsating
+RU,Aqr,23 24,-17 19,SRb,8.5,10.1,118.8,AAVSO,pulsating
+,,,,,,,,,pulsating
+R,Ari,02 16,+25 03,M,7.1,14.3,185.67,AAVSO,pulsating
+V,Ari,02 15,+12 14,SRb,8.2,8.9,56.38,1984Oct26,pulsating
+,,,,,,,,,pulsating
+Psi1,Aur,06 25,+49 17,Lc,4.54,5.7,,1973Jul14,pulsating
+R,Aur,05 17,+53 35,M,6.7,13.9,457.51,AAVSO,pulsating
+X,Aur,06 12,+50 13,M,8,13.6,163.79,AAVSO,pulsating
+TU ,Aur,06 36,+45 37,SRb,9.8,10.6p,73,AAVSO,pulsating
+TW,Aur,05 53,+45 31,SRb,9.1,10.6p,150,AAVSO,pulsating
+UU,Aur,06 37,+38 27,SRb,5.1,6.6,235,230.02,pulsating
+UV,Aur,05 22,+32 31,M,7.3,10.9,394.42,74.03,pulsating
+V428,Aur,05 31,+38 19,RV,6.6,7.2,89.2,AAVSO,pulsating
+NSV 16874 (TASV 0626 +34),Aur,06 29,+34 42,Lb,9.8,11.9p,,321.01,pulsating
+,,,,,,,,,pulsating
+R ,Boo,14 37,+26 44,M,6.2,13.1,223.4,AAVSO,pulsating
+S,Boo,14 23,+53 49,M,7.8,13.8,270.73,AAVSO,pulsating
+U,Boo,14 54,+17 39,SRb,9.8,13,201.3,36.02,pulsating
+V,Boo,14 30,+38 52,SRa,7,12,258.01,37.02,pulsating
+W,Boo,14 43,+26 32,SRb?,4.62,4.93,25.51,Undated,pulsating
+DK,Boo,13 44,+21 49,SRb,7.89,8.8,60.23,AAVSO,pulsating
+FG,Boo,15 12,+49 54,SRb,7.3,8.3,700,AAVSO,pulsating
+RV,Boo,14 39,+32 32,SRb,7.5,8.7,228,104.02,pulsating
+RW,Boo,14 41,+31 34,SRb,7.5,8.6,209,104.02,pulsating
+RX,Boo,14 24,+25 42,SRb,7,8.3,158,219.02,pulsating
+,,,,,,,,,pulsating
+R,Cam,14 18,+83 50,M,6.97,14.4,270.22,AAVSO,pulsating
+U,Cam,03 42,+62 39,SRb,7,9.4,2800,100.02,pulsating
+V,Cam,06 03,+74 30,M,7.7,16,522.45,27.01,pulsating
+X,Cam,04 46,+75 06,M,7.4,14.2,143.56,38.03,pulsating
+CC,Cam,04 57,+69 27,M,10.5,15.8,244,299.01,pulsating
+RS ,Cam,08 50,+78 58,SRb,7.8,9.7,88.6,AAVSO,pulsating
+RV ,Cam,04 31,+57 25,SRb,7.1,8.6,101,AAVSO,pulsating
+RY,Cam,04 31,+64 26,SRb,7.7,8.7,135.75,343.01,pulsating
+ST,Cam,04 51,+68 10,SRb,6.3,8.5,300,111.02,pulsating
+UV,Cam,04 06,+61 48,SRb,7.5,7.7,294,343.01,pulsating
+ZZ,Cam,04 18,+62 21,Lb,7,7.3,,343.01,pulsating
+,,,,,,,,,pulsating
+T ,Cnc,08 57,+19 51,SRb,7.6,10.5,482,AAVSO,pulsating
+X,Cnc,08 55,+17 04,SRb,5.69,6.94,180,231.02,pulsating
+RS,Cnc,09 11,+30 58,SRb,5.33,6.94,242.2,269.01,pulsating
+RT,Cnc,08 58,+10 51,SRb,7.05,8.1,90.04,311.01,pulsating
+SU,Cnc,08 14,+13 48,M,10.3,<15.0,190.45,AAVSO 040315,pulsating
+,,,,,,,,,pulsating
+U,CVn,12 47,+38 23,M,9,16.1,345.65,AAVSO 0383,pulsating
+V,CVn,13 20,+45 32,SRa,6.52,8.56,191.89,214.02,pulsating
+Y,CVn,12 45,+45 26,SRb,4.86,5.88,267.8,215.02,pulsating
+RT,CVn,13 49,+33 41,M,9.4,17.5,253.6,AAVSO 0571,pulsating
+TU,CVn,12 55,+47 12,SRb,5.6,6.2,44.2,215.02,pulsating
+,,,,,,,,,pulsating
+W,CMa,07 08,-11 55,SR,6.27,7.09,160,213.02,pulsating
+,,,,,,,,,pulsating
+Rho,Cas,23 54,+57 29,SDOR,4.1,6.2,,64.01,pulsating
+R,Cas,23 58,+51 23,M,4.7,13.5,430.46,AAVSO,pulsating
+S,Cas,01 19,+72 37,M,7.9,16.1,612.43,54.02,pulsating
+T,Cas,00 23,+55 48,M,6.9,13,444.83,67.02,pulsating
+WZ,Cas,00 01,+60 21,SRb,6.87,7.8,186,323.01,pulsating
+V391,Cas,01 57,+70 12,Lb,7,7.2,,337.01,pulsating
+V393,Cas,02 03,+71 18,SRa,7.2,7.9,393,337.01,pulsating
+V465,Cas,01 18,+57 48,SRb,6.1,7.2,60,233.02,pulsating
+V720,Cas,00 45,+53 27,M,11.2,15.7,425,289.01,pulsating
+V770,Cas,01 40,+60 54,Lb,7.45,8.13 Hp,,AAVSO,pulsating
+,,,,,,,,,pulsating
+Mu,Cep,21 44,+58 47,SRc,3.43,5.1,835,112.02,pulsating
+S ,Cep,21 35,+78 37,M,7.4,12.9,486.84,AAVSO,pulsating
+T,Cep,21 10,+68 29,M,5.2,11.3,388.14,338.02,pulsating
+W,Cep,22 37,+58 26,SRc,7.02,8.5,350,312.02,pulsating
+AR,Cep,22 52,+85 03,SRb,7,7.9,364,332.01,pulsating
+DM,Cep,22 08,+72 46,Lb,6.95,7.4,,Undated,pulsating
+FZ,Cep,21 20,+55 27,SR,7,7.6,,302.01,pulsating
+RU,Cep,01 21,+85 08,SRd,8.2,9.1,109,332.01,pulsating
+RW,Cep,22 23,+55 58,SRd,6,7.3,346,312.02,pulsating
+SS,Cep,03 50,+80 19,SRb,6.7,7.7,90,315.01,pulsating
+V386,Cep,22 53,+61 17,SR,8.8,11.5,,TA 950426,pulsating
+NSV14687,Cep,23 44,+71 46,M,11.2,15.5,369,TA,pulsating
+NSV 25186 (TAV 2034 +61),Cep,20 35,+61 48,SRb,10.6,12,250,291.01,pulsating
+NSV 25835 (TASV 2204 +59),Cep,22 06,+59 30,Lc,10.1,11.5,,TA,pulsating
+,,,,,,,,,pulsating
+Omicron,Cet,02 19,-02 59,M,2,10.1,331.96,39.03,pulsating
+,,,,,,,,,pulsating
+R,Com,12 04,+18 47,M,7.1,14.6,362.82,212.02,pulsating
+,,,,,,,,,pulsating
+S,CrB,15 21,+31 22,M,5.8,14.1,360.26,43.02,pulsating
+V,CrB,15 50,+39 34,M,6.9,12.6,357.63,57.02,pulsating
+W,CrB,16 15,+37 48,M,7.8,14.3,238.4,44.02,pulsating
+RR,CrB,15 41,+38 33,SRb,7.3,8.2,60.8,220.02,pulsating
+RS,CrB,15 59,+36 01,SRa,7,10.2,332.2,220.02,pulsating
+,,,,,,,,,pulsating
+Chi,Cyg,19 51,+32 55,M,3.3,14.2,408.05,45.02,pulsating
+R,Cyg,19 37,+50 12,M,6.1,14.4,426.45,31.01,pulsating
+S,Cyg,20 06,+57 59,M,9.3,17,322.93,32.01,pulsating
+U,Cyg,20 20,+47 54,M,5.9,12.1,463.24,AAVSO,pulsating
+V,Cyg,20 14,+48 09,M,7.7,13.9,421.27,34.02,pulsating
+W,Cyg,21 36,+45 22,SRb,5.1,6.83,131.7,62.04,pulsating
+AF,Cyg,19 30,+46 09,SRb,6.4,7.7,92.5,232.02,pulsating
+BC,Cyg,20 22,+37 32,SRc,9.6,10.5,700,65.01,pulsating
+BI,Cyg,20 21,+36 56,Lc,8.4,9.9,,65.01,pulsating
+RU,Cyg,21 41,+54 19,SRa,8,9.4,233.43,302.01,pulsating
+RV,Cyg,21 43,+38 01,SRb,7.1,9.3,263,335.01,pulsating
+TT,Cyg,19 41,+32 37,SRb,7.26,8,118,227.02,pulsating
+V460,Cyg,21 42,+35 31,SRb,5.57,6.5,180,336.01,pulsating
+V973,Cyg,19 45,+40 43,SRb,6.1,6.77,40,232.02,pulsating
+NSV13806,Cyg,21 36,+32 31,,11.1,<16.0,,TA,pulsating
+TAV 1933 +53,Cyg,19 34,+53 53,,10.3,12CCD,,TA,pulsating
+,,,,,,,,,pulsating
+U,Del,20 46,+18 06,SRb,6.14,7.61,120,228.02,pulsating
+EU,Del,20 38,+18 16,SRb,5.41,6.72,58.63,228.02,pulsating
+,,,,,,,,,pulsating
+T,Dra,17 56,+58 13,M,7.2,13.5,422.2,46.01,pulsating
+AH,Dra,16 48,+57 49,SRb,6.4,8.6,158,106.03,pulsating
+GN ,Dra,17 2,+66 27,SRb,9.05,10.5,154,AAVSO,pulsating
+RY,Dra,12 56,+66 00,SRb?,5.88,8,300,225.02,pulsating
+TX,Dra,16 35,+60 28,SRb,6.8,8.2,78,106.03,pulsating
+UX,Dra,19 22,+76 34,SRb,5.94,7.1,175,346.01,pulsating
+,,,,,,,,,pulsating
+Z,Eri,02 47,-12 27,SRb,6.17,7.18,74,AAVSO,pulsating
+BM ,Eri,04 13,-10 23,SR,6.76,8.03,559,AAVSO,pulsating
+BR,Eri,03 49,-07 01,SRb,6.5,8.16,73.3,AAVSO,pulsating
+VY,Eri,03 41,-10 45,SRb,9.2,10.6p,102.5,AAVSO,pulsating
+,,,,,,,,,pulsating
+R ,Gem,07 07,+22 42,M,6,14,369.91,AAVSO,pulsating
+BU,Gem,06 12,+22 55,SRc,5.74,7.4,325,294.01,pulsating
+DW,Gem,06 31,+27 27,Lb,8,10,,MDT 850318,pulsating
+TU,Gem,06 11,+26 01,SRb,6.88,8,217,294.01,pulsating
+TV,Gem,06 12,+21 52,SRc,6.27,7.5,,294.01,pulsating
+WY,Gem,06 12,+23 12,Lc+E?,7.1,7.56,64.48y,294.01,pulsating
+TAV 0714 +17,Gem,07 17,+17 54,SR?,10.5,12.2,,319.01,pulsating
+J0712 +296,Gem,07 12,+29 38,LB?,11.3,13.8,,318.01,pulsating
+,,,,,,,,,pulsating
+g(Fl30),Her,16 29,+41 53,SRb,4.3,5.5,89.2,224.02,pulsating
+S,Her,16 52,+14 57,M,6.4,13.8,304,AAVSO,pulsating
+T,Her,18 09,+31 01,M,6.8,13.7,164.98,AAVSO,pulsating
+X,Her,16 03,+47 14,SRb,5.8,7,102,223.02,pulsating
+AC,Her,18 30,+21 52,RVA,6.85,9,75.29,48.04,pulsating
+IQ,Her,18 18,+17 59,SRb,6.8,8,76.5,48.04,pulsating
+OP,Her,17 57,+45 21,SRb,5.85,6.73,120.5,324.01,pulsating
+RU,Her,16 10,+25 04,M,6.7,14.3,440.8,60.02,pulsating
+SS,Her,16 33,+06 51,M,8.5,13.5,114.2,47.01,pulsating
+ST,Her,15 51,+48 29,SRb,6.8,8.3,144,223.02,pulsating
+SX,Her,16 08,+24 55,SRd,7.9,9.3,103.5,113.02,pulsating
+UW,Her,17 14,+36 22,SRb,6.8,8.7,103.6,107.02,pulsating
+V566,Her,18 08,+41 43,SRb,7.42,7.85,137,324.01,pulsating
+NSV10836,Her,18 28,+15 42,M,11,<15.00,,TA,pulsating
+NSV24346 (TASV 1812 +40),Her,18 14,+40 26,Lb,9.6,10.3p,,TA,pulsating
+Q1992/076,Her,18 29,+15 16,M,12,<16.8,,TA,pulsating
+,,,,,,,,,pulsating
+R,Hya,13 30,-23 17,M,3.5,10.9,380,49.03,pulsating
+U,Hya,10 38,-13 23,SRb,4.56,5.4,183.1,109.02,pulsating
+EY,Hya,08 46,+01 38,SRb,8.49,10.14,277,AAVSO,pulsating
+FF ,Hya,10 37,-12 01,SRb,8.2,10.3p,85,AAVSO,pulsating
+VY ,Hya,03 41,-10 45,SRb,9,11.3p,102.5,AAVSO,pulsating
+,,,,,,,,,pulsating
+SU,Lac,22 23,+55 31,M,11,15,302,69.02,pulsating
+SX,Lac,22 56,+35 12,SR,8,8.7,190,235.02,pulsating
+,,,,,,,,,pulsating
+R,Leo,09 48,+11 26,M,4.4,11.3,309.95,349.01,pulsating
+Z,Leo,09 52,+26 54,SRb,7.5,9.5,56.83,AAVSO,pulsating
+RS,Leo,09 43,+19 52,M,10.7,16.0p,208.2,AAVSO 0371,pulsating
+RY,Leo,10 04,+13 59,SRb,9,11.8,155,222.02,pulsating
+,,,,,,,,,pulsating
+U,LMi,09 55,+36 05,SRa,10,13.3,272.2,218.02,pulsating
+W,LMi,10 45,+26 02,SRd,10.4,13.5,116.9,AAVSO ,pulsating
+,,,,,,,,,pulsating
+R,Lep,05 00,-14 48,M,5.5,11.7,445,350.01,pulsating
+RX,Lep,05 11,-11 51,SRb,5.12,6.65,79.54,110.02,pulsating
+,,,,,,,,,pulsating
+FY,Lib,14 58,-12 25,SRb,6.5,7.78,179.7,348.01,pulsating
+,,,,,,,,,pulsating
+R,Lyn,07 01,+55 20,M,7.2,14.3,365.5,AAVSO ,pulsating
+W,Lyn,08 17,+40 08,M,7.5,15,295.2,325.01,pulsating
+X,Lyn,08 26,+35 24,M,9.5,16,320.8,AAVSO ,pulsating
+Y,Lyn,07 28,+45 59,SRc,6.58,8.25,110,229.02,pulsating
+CE,Lyn,07 44,+38 50,SR,7.3,8.1,529,108.03,pulsating
+SV,Lyn,08 04,+36 21,SRb,6.7,7.6,70,108.03,pulsating
+,,,,,,,,,pulsating
+R,Lyr,18 55,+43 57,SRb,3.81,4.44,46,330.01,pulsating
+W,Lyr,18 15,+36 40,M,7.3,13,197.88,AAVSO,pulsating
+XY,Lyr,18 38,+39 40,SRc,5.6,6.6,120,331.01,pulsating
+,,,,,,,,,pulsating
+U,Mon,07 31,-09 47,RVB,5.45,7.67,91.32,29.04,pulsating
+RV,Mon,06 58,+06 10,SRb,6.88,7.7,132,292.01,pulsating
+SX,Mon,06 52,+04 46,SRb,7.43,8.21,77.67,292.01,pulsating
+V686,Mon,07 26,-03 06,M,11.5,<21p,337.5,TA 930221,pulsating
+,,,,,,,,,pulsating
+X,Oph,18 38,+08 50,M,5.9,8.6,338,99.02,pulsating
+RY,Oph,18 16,+03 41,M,7.4,13.8,150.41,AAVSO,pulsating
+V2303,Oph,18 38,+11 11,SR,11.1,<12.5,,282.01,pulsating
+,,,,,,,,,pulsating
+U,Ori,05 55,+20 11,M,4.8,13,377,59.02,pulsating
+W,Ori,05 05,+01 11,SRb,5.5,6.9,212,105.02,pulsating
+BL,Ori,06 26,+14 43,SRb,5.9,6.6,153.8,211.02,pulsating
+BQ,Ori,05 57,+22 50,SRb,7.1,9,243,295.02,pulsating
+V352,Ori,06 02,-02 21,SRb,6.9,8.2,118.6,AAVSO,pulsating
+TAV 0559 +06,Ori,06 02,+06 38,SRa?,10.9,12.9,,308.01,pulsating
+,,,,,,,,,pulsating
+R ,Peg,23 07,+10 33,M,6.9,13.8,378.1,AAVSO,pulsating
+X,Peg,21 21,+14 27,M,8.8,14.4,201.2,AAVSO,pulsating
+GO,Peg,22 55,+19 34,SRb,7.14,7.91,79.3,103.02,pulsating
+PV,Peg,22 24,+31 16,SRb,6.6,7.7,520,AAVSO,pulsating
+,,,,,,,,,pulsating
+R,Per,03 30 ,+35 40,M,8.1,14.8,209.89,AAVSO,pulsating
+S,Per,02 23,+58 35,SRc,7.9,12.8,822,50.01,pulsating
+AD,Per,02 21,+57 00,SRc,7.7,8.4,362.5,344.01,pulsating
+BU,Per,02 19,+57 25,SRc,9,10,367,63.01,pulsating
+KK,Per,02 10,+56 34,Lc,7.49,7.99,,344.01,pulsating
+PR,Per,02 22,+57 52,Lc,7.7,8.2,,344.01,pulsating
+RS,Per,02 22,+57 07,SRc,7.82,9,244.5,63.01,pulsating
+SU,Per,02 22,+56 36,SRc,7.2,8.7,533,344.01,pulsating
+SW ,Per,04 11,+42 13,SRb,7.8,9.2,78.5,AAVSO,pulsating
+V513,Per,03 33,+41 26,M,10.4,13,,TA 981227,pulsating
+TAV 0346 +38,Per,03 49,+38 47,C Star,10.3,12.2,,307.01,pulsating
+,,,,,,,,,pulsating
+Z,Psc,01 16,+25 46,SRb,6.37,7.49,155.8,278.01,pulsating
+RT,Psc,01 14,+27 08,SRb,8.2,10.4p,70,AAVSO,pulsating
+TV,Psc,00 28,+17 54,SR,4.65,5.42,49.1,1972Sep09,pulsating
+TX,Psc,23 46,+03 29,Lb,4.79,5.2,,276.01,pulsating
+,,,,,,,,,pulsating
+R,Sct,18 48,-05 42,RVA,4.2,8.6,146.5,26.04,pulsating
+S,Sct,18 50,-07 54,SRb,6.6,7.3,149.7,26.04,pulsating
+FR,Sct,18 23,-12 41,L+EA,11.6,12.91B,3.53405,87.01,pulsating
+,,,,,,,,,pulsating
+tau 4,Ser,15 36,+15 05,SRb,5.89,7.07,86.7,209.01,pulsating
+R,Ser,15 51,+15 08,M,5.16,14.4,356.41,33.02,pulsating
+,,,,,,,,,pulsating
+V,Tau,04 52,+17 32,M,8.5,14.6,168.7,AAVSO,pulsating
+Y,Tau,05 46,+20 42,SRb,6.4,7.3,245,295.02,pulsating
+RV,Tau,04 47,+26 11,RVB,8.9,11.1,78.731,56.02,pulsating
+TT,Tau,04 52,+28 32,SRb,8.1,8.8,165.5,301.01,pulsating
+V1258 (NSV2249),Tau,05 35,+23 53,M,11.1,18.5,438,TA,pulsating
+,,,,,,,,,pulsating
+R ,Tri,02 37,+34 16,M,5.4,12.6,266.9,339.01,pulsating
+W,Tri,02 42,+34 31,SRc,7.4,8.4,108,114.02,pulsating
+,,,,,,,,,pulsating
+R ,UMa,10 45,+68 47,M,6.5,13.7,301.62,340.01,pulsating
+S,UMa,12 44,+61 06,M,7.1,12.7,225.87,341.01,pulsating
+T,UMa,12 36,+59 29,M,6.8,13.5,256.6,66.02,pulsating
+V,UMa,09 08,+51 07,SRb,9.5,11.5,207.65,AAVSO,pulsating
+Y,UMa,12 40,+55 51,SRb,7.7,9.2,168,AAVSO,pulsating
+Z,UMa,11 57,+57 52,SRb,6.2,9.4,195.5,217.02,pulsating
+FY,UMa,09 06,+64 47,SRb,9.04,9.80 Hp,,AAVSO,pulsating
+RY,UMa,12 21,+61 19,SRb,6.49,7.94,310,217.02,pulsating
+RZ ,UMa,08 10,+64 47,SRb,9.7,11.9p,115,AAVSO,pulsating
+ST,UMa,11 28,+45 11,SRb,6,7.2,80,102.02,pulsating
+TV,UMa,11 46,+35 54,SRb,6.72,7.45,53.74,271.01,pulsating
+VW,UMa,10 59,+69 59,SR,6.69,7.71,615,226.02,pulsating
+VY,UMa,10 45,+67 25,SRb,5.73,6.32,120.4,226.02,pulsating
+,,,,,,,,,pulsating
+R,UMi,16 30,+72 17,SRb,8.5,11.5,325.7,AAVSO,pulsating
+S,UMi,15 30,+78 38,M,7.5,<13.2,331,AAVSO,pulsating
+V,UMi,13 39,+74 19,SRb,7.06,8.7,73,101.02,pulsating
+,,,,,,,,,pulsating
+S,Vir,13 33,-07 12,M,6.3,13.2,375.1,AAVSO,pulsating
+BK,Vir,12 30,+04 25,SRb,7.28,8.8,140,270.01,pulsating
+IW,Vir,11 38,+04 19,Lb,8.79,9.52 Hp,,AAVSO,pulsating
+RW,Vir,12 07,-06 46,SRb,6.71,7.5,175,317.01,pulsating
+SS,Vir,12 25,+00 48,SRa,6,9.6,361,97.02,pulsating
+SW,Vir,13 14,-02 48,SRb,6.2,8,146,98.02,pulsating
+,,,,,,,,,pulsating
+R,Vul,21 04,+22 49,M,7,14.3,136.73,AAVSO,pulsating
+V,Vul,20 36,+26 36,RVA,8.05,9.75,76.07,58.02,pulsating
+RZ,Vul,19 47,+19 29,RVB,11.7,15.0V,89.5,AAVSO,pulsating
+V335,Vul,19 23,+24 30,M,11.5,13.9,353.64,280.01,pulsating
+V336,Vul,19 35,+23 53,SRb,7.6,9.2,131.6,AAVSO,pulsating
+ ,,,,,,,,,
+
+TW,And,00 03,+32 51,,8.8,10.9,4.12,AAVSO 122901,eclipsing,13
+AD,And,23 37,+48 40,,10.9,11.6p,0.99,1984Dec22,eclipsing,EB
+DS,And,01 59,+38 05,,10.4,10.9p,1.01,1984Dec22,eclipsing,EB
+ , , , ,, , , , ,eclipsing, 
+OO,Aql,19 48,+09 18,,9.2,9.9,0.51,AAVSO 0801,eclipsing,EW
+ , , , ,, , , , ,eclipsing, 
+SX,Aur,05 12,+42 10,,8.4,9.1,1.21,1984Dec23,eclipsing,EB
+WW,Aur,06 33,+32 27,,5.8,6.5,2.53,AAVSO 122901,eclipsing,6
+AR,Aur,05 18,+33 46,,6.2,6.8,4.13,283.01,eclipsing,7
+EO,Aur,05 18,+36 38,,7.6,8.1,4.07,283.01,eclipsing,12
+HL,Aur,06 19,+49 43,,10.8,11.9p,0.62,1984Dec23,eclipsing,EB
+IM,Aur,05 16,+46 25,,7.9,8.5,1.25,1972Feb04,eclipsing,6
+IU,Aur,05 28,+34 47,,8.2,8.8,1.81,1984Dec24,eclipsing,EB
+LY,Aur,05 30,+35 23,,6.7,7.4,4,283.01,eclipsing,EB
+Epsilon,Aur,05 02,+43 49,,2.9,3.8,9892,316.01,eclipsing, 
+ , , , ,, , , , ,eclipsing, 
+ZZ,Boo,13 56,+25 55,,6.8,7.4,4.99,252.01,eclipsing,7
+ , , , ,, , , , ,eclipsing, 
+RS,CVn,13 11,+35 56,,7.9,9.1,4.8,253.01,eclipsing,13
+ , , , ,, , , , ,eclipsing, 
+RZ,Cas,02 49,+69 38,,6.2,7.7,1.2,236.02,eclipsing,5
+TV,Cas,00 19,+59 08,,7.2,8.2,1.81,1982Aug16,eclipsing,8
+TW,Cas,02 46,+65 44,,8.3,9,1.43,273.01,eclipsing,5
+TX,Cas,02 52,+62 47,,9.2,9.8,2.93,1985Jun08,eclipsing,EB
+AB,Cas,02 38,+71 18,,10.1,11.9,1.37,AAVSO 0801,eclipsing,6
+BM,Cas,00 55,+64 05,,8.8,9.3,197.28,1986Jul05,eclipsing,EB
+DO,Cas,02 41,+60 33,,8.4,9,0.68,1986Jul05,eclipsing,EB
+ , , , ,, , , , ,eclipsing, 
+U,Cep,01 02,+81 03,,6.8,9.4,2.49,279.01,eclipsing,9
+VW,Cep,20 37,+75 36,,7.2,7.7,0.28,1972Mar21,eclipsing,EW
+EG,Cep,20 16,+76 49,,9.3,10.2,0.54,AAVSO 0801,eclipsing,EB
+EI,Cep,21 29,+76 24,,7.5,8.1,8.44,1972Mar21,eclipsing,12
+GK,Cep,21 31,+70 49,,6.9,7.4,0.94,1971Dec02,eclipsing,EB
+ , , , ,, , , , ,eclipsing, 
+U,CrB,15 18,+31 39,,7.7,8.8,3.45,254.01,eclipsing,12
+ , , , ,, , , , ,eclipsing, 
+Y,Cyg,20 52,+34 39,,7.3,7.9,3,1986Jul06,eclipsing,7
+SW,Cyg,20 07,+46 18,,9.2,11.8,4.57,AAVSO 0801,eclipsing,13
+BR,Cyg,19 41,+46 47,,9.4,10.6,1.33,AAVSO 0801,eclipsing,6
+V367,Cyg,20 48,+39 17,,6.7,7.6,18.6,1986Jul06,eclipsing,EB
+V448,Cyg,20 06,+35 23,,7.9,8.7,6.52,1986Jul06,eclipsing,EB
+V453,Cyg,20 07,+35 44,,8.3,8.7,3.89,1986Jul06,eclipsing,14
+V477,Cyg,20 06,+31 58,,8.5,9.3,2.35,1972Feb05,eclipsing,4
+ , , , ,, , , , ,eclipsing, 
+Z,Dra,11 46,+72 15,,10.8,14.1p,1.36,1993Jan10,eclipsing,5
+TW,Dra,15 34,+63 54,,7.3,8.9,2.81,274.01,eclipsing,11
+AI,Dra,16 56,+52 42,,7.1,8.1,1.2,284.01,eclipsing,5
+BH,Dra,19 04,+57 27,,8,8.6,1.82,285.01,eclipsing,5
+ , , , ,, , , , ,eclipsing, 
+S,Equ,20 57,+05 05,,8,10.1,3.44,286.01,eclipsing,11
+ , , , ,, , , , ,eclipsing, 
+eta,Gem,06 15,+22 30,,3.1, ,2984,326.01,eclipsing, 
+RW,Gem,06 02,+23 09,,9.5,11.8,2.87,1994Mar12,eclipsing,10
+ , , , ,, , , , ,eclipsing, 
+68u,Her,17 17,+33 06,,4.7,5.4,2.05,1971Aug27,eclipsing,14
+Z,Her,17 58,+15 08,,7.3,8.2,3.99,1972Feb06,eclipsing,11
+RX,Her,18 31,+12 37,,7.3,7.9,1.78,1972Jun12,eclipsing,6
+ , , , ,, , , , ,eclipsing, 
+SW,Lac,22 54,+37 56,,8.5,9.4,0.32,1987Nov,eclipsing,EW
+AR,Lac,22 09,+45 45,,6.1,6.8,1.98,1971Feb13,eclipsing,7
+CM,Lac,22 00,+44 33,,8.2,9.2,1.6,1987Nov,eclipsing,4
+ , , , ,, , , , ,eclipsing, 
+UV,Leo,10 38,+14 16,,8.9,9.6,0.6,1987Nov,eclipsing,3
+AP,Leo,11 05,+05 09,,9.3,9.9,0.43,1987Nov,eclipsing,EW
+ , , , ,, , , , ,eclipsing, 
+Delta,Lib,15 01,-08 31,,4.9,5.9,2.33,1987Nov,eclipsing,13
+ , , , ,, , , , ,eclipsing, 
+NSV4031,Lyn,08 23,+45 28,,8,8.8, ,275.01,eclipsing, 
+ , , , ,, , , , ,eclipsing, 
+Beta ,Lyr,18 50,+33 22,,3.3,4.4,12.91,328.01,eclipsing,EB
+TZ,Lyr,18 16,+41 07,,10.6,11.3,0.53,1987Nov,eclipsing,EB
+ , , , ,, , , , ,eclipsing, 
+V505,Mon,06 46,+02 30,,7.2,7.7,53.78,1971Aug22,eclipsing,EB
+ , , , ,, , , , ,eclipsing, 
+U,Oph,17 17,+01 13,,5.8,6.6,1.68,1971Dec12,eclipsing,6
+V451,Oph,18 29,+10 53,,7.9,8.5p,2.2,1972Jun12,eclipsing,6
+V566,Oph,17 57,+04 59,,7.5,8,0.41,1972Jun11,eclipsing,EW
+ , , , ,, , , , ,eclipsing, 
+ER,Ori,05 11,-08 33,,9.3,10,0.42,1987Nov,eclipsing,EW
+ , , , ,, , , , ,eclipsing, 
+EE,Peg,21 40,+09 11,,6.9,7.5,2.63,245.01,eclipsing,6
+ , , , ,, , , , ,eclipsing, 
+Beta ,Per,03 08,+40 57,,2.1,3.4,2.87,327.01,eclipsing,10
+Z,Per,02 40,+42 12,,9.7,12.4p,3.06,1994Mar12,eclipsing,10
+DM,Per,02 26,+56 06,,7.9,8.6,2.73,1972Apr09,eclipsing,11
+IQ,Per,04 00,+48 09,,7.7,8.7,1.74,246.01,eclipsing,5
+IZ,Per,01 32,+54 01,,7.8,9,3.69,1972Feb14,eclipsing,11
+ , , , ,, , , , ,eclipsing, 
+SZ,Psc,23 13,+02 41,,7.2,7.7,3.97,1972Jun11,eclipsing,10
+ , , , ,, , , , ,eclipsing, 
+U,Sge,19 19,+19 37,,6.5,9.3,3.38,287.01,eclipsing,14
+ , , , ,, , , , ,eclipsing, 
+Lambda,Tau,04 01,+12 29,,3.4,3.9,3.95,1993Oct22,eclipsing,14
+RW,Tau,04 04,+28 08,,8,11.2,2.77,1984Dec18,eclipsing,9
+BV,Tau,05 39,+22 55,,11.7,12.4p,0.93,1985Jan31,eclipsing,EB
+CD,Tau,05 18,+20 08,,6.8,7.3,3.44,1972Feb04,eclipsing,7
+HU,Tau,04 38,+20 41,,5.9,6.7,2.06,247.01,eclipsing,7
+ , , , ,, , , , ,eclipsing, 
+X,Tri,02 01,+27 53,,8.9,11.3,0.97,1982Jan01,eclipsing,4
+ , , , ,, , , , ,eclipsing, 
+W,UMa,09 44,+55 57,,7.8,8.5,0.33,248.01,eclipsing,EW
+TX,UMa,10 45,+45 34,,7.1,8.8,3.06,288.01,eclipsing,9
+ , , , ,, , , , ,eclipsing, 
+Z,Vul,19 22,+25 34,,7.3,8.9,2.45,255.01,eclipsing,11
+
+Z,And,23 34,+48 49,ZAND,7.7,11.3V,,95.02,cataclysmic
+DX,And,23 30,+43 44,UGSS,11,15.5V,0.440502d,AAVSO ,cataclysmic
+EG,And,00 45,+40 41,ZAND+E,6.97,7.8V,482.57d,72.02,cataclysmic
+HP,And,00 19,+41 28,UG:,10.5,18.4V,,AAVSO,cataclysmic
+LL,And,00 41,+26 37,UGWZ,12.6,20.0V,0.055055d,AAVSO,cataclysmic
+LS,And,00 32,+41 58,UGWZ:,11.7,20.2B,,116.02,cataclysmic
+PQ,And,02 29,+40 03,UGWZ+ZZ/GWLIB,10.1,19.2V,0.0560d,AAVSO,cataclysmic
+RX,And,01 04,+41 18,UGZ,10.3,15.1,0.209893d,1.04,cataclysmic
+V402,And,00 11,+30 33,UGSU,15.5,<20.0B,,239.02,cataclysmic
+3C 66A,And,02 23,+43 02,BLLAC,14,15.8,,309.01,cataclysmic
+ASASSN-15po,And,00 37,+21 51,UGWZ,13.7,21.5V,0.05045d,AAVSO,cataclysmic
+CI,Aql,18 52,-01 28,NR+E,8.7,16.3V,0.6183609d,260.01,cataclysmic
+ES,Aql,19 32,-00 12,RCB,11.5,<17.7V,,AAVSO,cataclysmic
+KX,Aql,19 34,+14 18,UGSU,12.5p,18.4V,0.06035d,AAVSO,cataclysmic
+UU,Aql,19 57,-09 19,UGSS,11,17.0V,0.163532d,2.02,cataclysmic
+V603,Aql,18 49,+00 35,NA,-1.4,12.4V,0.13820103d,AAVSO,cataclysmic
+V725,Aql,19 57,+10 50,UGSU,13.7,16.2p,0.0944d,AAVSO,cataclysmic
+V1413,Aql,19 04,+16 26,ZAND+E,10.6,15.1V,434.1d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+U,Aqr,22 03,-16 38,RCB,10.5,18.2V,37.5d,AAVSO,cataclysmic
+VY,Aqr,21 12,-08 50,UGSU,10,17.52V,0.06309d,179.02,cataclysmic
+Markarian 509,Aqr,20 44,-10 43,AGN,14,15,,JT 820321,cataclysmic
+,,,,,,,,,cataclysmic
+SV,Ari,03 25,+19 50,UGWZ,14.0:,22.1V,,AAVSO,cataclysmic
+TT,Ari,02 07,+15 18,NL/VY,10.2,16.5V,0.137551d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+AB,Aur,04 56,+30 33,UXOR/ROT,6.7,8.4,6.551d,301.01,cataclysmic
+SS,Aur,06 13,+47 44,UGSS,10.3,16.8V,0.1828d,3.03,cataclysmic
+V654,Aur,07 29,+36 59,AM,19.5,20.7V,0.104d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+UZ,Boo,14 44,+22 01,UGWZ,11.5,20.2V,,AAVSO,cataclysmic
+SDSS J150441.76+084752.6,Boo,15 05,+08 48,CV,18,19.1V,,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+Z,Cam,08 25,+73 07,UGZ,10,14.5,0.289841d,4.03,cataclysmic
+XX,Cam,04 09,+53 22,RCB:,8.09,9.8B,,68.02,cataclysmic
+S5 0716+71,Cam,07 22,+71 21,BLLAC,12,15,,310.01,cataclysmic
+,,,,,,,,,cataclysmic
+AK,Cnc,08 55,+11 20,UGSU,13,<17.0,0.0651d,AAVSO,cataclysmic
+EG,Cnc,08 43,+27 52,UGWZ,11.9,19.2V,0.05997d,AAVSO,cataclysmic
+GY,Cnc,09 10,+18 50,UGSU+E,12.5,17.8,0.1754424988d,268.01,cataclysmic
+SY,Cnc,09 01,+17 54,UGZ,11,14.0V,0.3823753d,AAVSO,cataclysmic
+YZ,Cnc,08 11,+28 08,UGSU,10.5,16.3V,0.0868d,AAVSO,cataclysmic
+OJ+287,Cnc,08 55,+20 07,BLLAC,12.7,17.0V,,251.02,cataclysmic
+,,,,,,,,,cataclysmic
+TX,CVn,12 45,+36 46,ZAND+ELL,9.34,10.28V,199.75d,78.02,cataclysmic
+NGC 4151,CVn,12 11,+39 25,SEYFERT,10.8,12.7,,297.01,cataclysmic
+,,,,,,,,,cataclysmic
+AQ,CMi,07 15,+08 49,UGSU,13.9,19.2V,0.0649d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+Gamma,Cas,00 57,+60 43,GCAS,1.6,3,,64.01,cataclysmic
+DK,Cas,00 18,+57 26,UGSS,15.3,19.5p,(96d:),257.01,cataclysmic
+HT,Cas,01 10,60.04,UGSU+E,12.6,19.32V,0.0736472031d,AAVSO,cataclysmic
+UV,Cas,23 02,+59 37,RCB,11.8,16.5p,,61.02,cataclysmic
+V452,Cas,00 52,+53 52,UGSU,14.5,19.5V,0.0857d,118.03,cataclysmic
+V630,Cas,23 49,+51 28,UG,12.3,17.1p,2.56387d,185.02,cataclysmic
+V635,Cas,01 18,+63 44,HMXB/XP+BE,14.5,16.3V,24.3d,AAVSO,cataclysmic
+NSV 15133,Cas,00 37,+59 41,GCAS,10.3,11.8V,,298.01,cataclysmic
+,,,,,,,,,cataclysmic
+V730,Cep,22 54,+58 54,ISA,12.8,15.9V,,272.01,cataclysmic
+NSV 25966,Cep,22 51,+63 28,CV:,,,,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+WX,Cet,01 17,-17 56,UGSU,9.5,18.0p,0.058261d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+W,Com,12 22,+28 14,BLLAC,11.5,17.0B,,148.03,cataclysmic
+AL,Com,12 33,+14 21,UGWZ,12.9,19.8V,0.056668d,AAVSO,cataclysmic
+GO,Com,12 57,+26 37,UGSU ,13.1,20.0p,"0,.0658d",AAVSO,cataclysmic
+IR ,Com,12 40,+21 08,UGSU+E,13.4,18.5V,0.0870386279d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+R,CrB,15 48,+28 09,RCB,5.7,15.2V,,41.04,cataclysmic
+T,CrB,15 59,+25 55,NR,2,10.8,227.6d,25.03,cataclysmic
+,,,,,,,,,cataclysmic
+TT,Crt,11 35,-11 46,UG,12.5,15.3V,0.26842d,191.02,cataclysmic
+,,,,,,,,,cataclysmic
+P,Cyg,20 18,+38 02,SDOR,3,6,,1972Jul29,cataclysmic
+BF,Cyg,19 24,+29 40,ZAND,9.1,13.5V,755d,88.04,cataclysmic
+CH,Cyg,19 25,+50 15,ZAND+SR,5.6,10.1V,,89.03,cataclysmic
+CI,Cyg,19 50,+35 41,ZAND+E,9,12.3V,852.98d,6.02,cataclysmic
+EM,Cyg,19 39,+30 31,UGZ+E,11.9,14.4p,0.29090913d,216.02,cataclysmic
+EY,Cyg,19 55,+32 22,UGSS,11.4,15.5V,,AAVSO,cataclysmic
+SS,Cyg,21 43,+43 35,UGSS,7.7,12.4V,0.27513d,5.03,cataclysmic
+V337,Cyg,20 00,+39 14,UGSU,14.4,20p,,AAVSO,cataclysmic
+V404,Cyg,20 24,+33 52,LMXB/XN,11.2,18.8V,6.64714d,AAVSO,cataclysmic
+V482,Cyg,19 59,+33 58,RCB,10.65,<14.5V,,AAVSO,cataclysmic
+V542,Cyg,19 49,+58 30,UGSS,13,18.3p,0.1815d,AAVSO,cataclysmic
+V632,Cyg,21 36,+40 25,UGSU,12.6,17.5p,0.06377d,AAVSO,cataclysmic
+V795,Cyg,19 34,+31 32,UGSS,13.4,<17.9p,0.181299 d,AAVSO,cataclysmic
+V1016,Cyg,19 57,+39 49,NC+M,10.05,17.5B,,92.01,cataclysmic
+V1028,Cyg,20 01,+56 56,UGSU,12.7,19.5V,,AAVSO,cataclysmic
+V1057,Cyg,20 59,+44 15,FUOR,10.3,16.5B,,AAVSO,cataclysmic
+V1251,Cyg,21 41,+48 39,UGSU,12.5,20.3V,0.07433d,AAVSO,cataclysmic
+V1316,Cyg,20 12,+42 46,UGSU,15,17.6C,,249.01,cataclysmic
+V1329,Cyg,20 51,+35 34,NC+E,12.1,18.0B,958.0d,93.01,cataclysmic
+V1363,Cyg,20 06,+33 43,UG:,13.5,18.0V,,176.02,cataclysmic
+V1454,Cyg,19 54,+35 19,UGSU,13.9,20.5V,0.0565d,AAVSO,cataclysmic
+V2176,Cyg,19 27,+54 18,UGWZ,13.4,<20.0V,,241.01,cataclysmic
+NSV 25747,Cyg,21 41,+31 20,UG:,12.8,18.0V,,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+HR,Del,20 42,+19 10,NB,3.5,12.1V,0.214165d,333.01,cataclysmic
+,,,,,,,,,cataclysmic
+AB,Dra,19 49,+77 45,UGZ,4,15.8V,0.1520d,7.04,cataclysmic
+AG,Dra,16 02,+66 48,ZAND,7.9,10.3V,548.65d,80.03,cataclysmic
+DO,Dra,11 44,+71 41,UG/DQ,10,16.9V,0.165374d,AAVSO,cataclysmic
+DV,Dra,18 17,+50 48,UGWZ,15,22.2V,0.05883d,263.01,cataclysmic
+KV,Dra,14 51,+64 03,UGSU,11.8,17.1V,0.05876d,264.01,cataclysmic
+V529,Dra,18 42,+48 37,UGWZ,12,20.6V,0.07168d,AAVSO,cataclysmic
+RX J1715.6+6856,Dra,17 16, +68 57,UGSU,15.8,18.7CR,0.0683d,AAVSO,cataclysmic
+RX J1831+6511,Dra,18 32,+65 12,UG,14,16,,AAVSO,cataclysmic
+SDSS J150137.22+550123.4,Dra,15 02,+55 01,UGSU+E,14.6C,19.2V,0.0568412623d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+U,Gem,07 55,+22 00  ,UGSS+E,8.2,14.9,0.1769061 d,8.04,cataclysmic
+AW,Gem,07 23,+28 30,UGSU,12.9,19.4V,0.07621d,AAVSO,cataclysmic
+CI,Gem,06 30,+22 19,UGSU,14.7,<18.0p,,265.01,cataclysmic
+IR,Gem,06 48,+28 05,UGSU,11.2,18.7V,0.0684d,42.02,cataclysmic
+,,,,,,,,,cataclysmic
+AH,Her,16 44,+25 15,UGZ,10.9,14.7V,0.258116d,9.04,cataclysmic
+AM,Her,16 16,+49 52,AM,12.3,15.7,0.128927d,293.01,cataclysmic
+AO,Her,17 36,+50 25,RCB,10.7,<19.6:V,,AAVSO,cataclysmic
+YY,Her,18 15,+20 59,ZAND,11.1,<14.0B,589.5d,84.01,cataclysmic
+V443,Her,18 23,+23 27,ZAND,11.42,11.72V,599.4d,86.01,cataclysmic
+V478,Her,17 21,+23 40,UG,15.4,18.0V,0.629049d,259.01,cataclysmic
+V589,Her,16 22,+19 22,UGSU,14.1,19.0CV,,266.01,cataclysmic
+V592,Her,16 31,+21 17,UGWZ,12.3,21.4V,0.0561d,AAVSO,cataclysmic
+V660,Her,17 42,+23 49,UGSU,14.2V,18.7V,0.07826d,237.01,cataclysmic
+V844,Her,16 25,+39 09,UGSU,12.5,17.5B,0.054643d,AAVSO,cataclysmic
+V884,Her,18 02,+18 05,AM,12.97,17.7V,0.078480d,314.01,cataclysmic
+V1008,Her,18 05,+31 40,UG,13.5B,18.5CV,,238.01,cataclysmic
+V1108,Her,18 39,+26 04,UGWZ,12.0V,<17.1V,0.05672d,AAVSO,cataclysmic
+V1117,Her,16 39,+09 48,IS,12.3,<13.9V,,AAVSO,cataclysmic
+ASASSN-15ax,Her,17 30,+45 17,UGWZ,13.8,21.5V,,AAVSO,cataclysmic
+FSVJ1722+2723,Her,17 23,+27 24,UGWZ:,?,21.0V,,,cataclysmic
+,,,,,,,,,cataclysmic
+EX ,Hya,12 52,-29 15,UG/DW+E,10,14.3V,0.068234d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+AY,Lac,22 22,+50 24,NR/UGWZ,14.5,<20.0V,,AAVSO,cataclysmic
+BL,Lac,22 03,+42 17,BLLAC,12.4,17.2B,,242.01,cataclysmic
+,,,,,,,,,cataclysmic
+U,Leo,10 24,+14 00,N:,9.5,<14.0V,,300.01,cataclysmic
+X,Leo,09 51,+11 53,UGSS,11.8,17.2V,0.1644d,10.02,cataclysmic
+HM,Leo,09 39,+07 15,UG,12.9v,17.0V,0.1868d,AAVSO,cataclysmic
+RZ,Leo,11 37,+01 49,UGWZ ,11.5,19.2V,0.076038d,AAVSO,cataclysmic
+SDSS J112619.45+084650.8,Leo,11 26,+08 47,UGWZ,14.7,21.8V,0.05423d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+SS,LMi,10 34,+31 08,UGWZ,15,22.2V,0.05572d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+EZ,Lyn,08 05,+51 04,UGWZ+E+ZZ/GWLIB,12,18.2V,0.0590048d,AAVSO,cataclysmic
+FH,Lyn,08 13,+45 28,UGSS,15.3,18.1CR,0.289d,AAVSO,cataclysmic
+SU,Lyn,06 43,+55 31,ZAND+SRB,9.6,10.5p,126d,342.01,cataclysmic
+SDSS J074716.81+424849.0,Lyn,07 47,+42 49,NL,16.8,18.2V,,AAVSO,cataclysmic
+SDSS J081610.84+453010.2,Lyn,08 16,+45 30,UG+E,15.8,20,0.2096d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+AY,Lyr,18 44,+38 00,UGSU,12.5,18.4B,,11.02,cataclysmic
+DM,Lyr,18 59,+30 16,UGSU,13.6,18.0p,0.065409d,AAVSO,cataclysmic
+HR,Lyr,18 53,+29 13,N,6.5,17.0B,,AAVSO,cataclysmic
+MV,Lyr,19 07,+44 01,NL/VY,12.2,18.0B,0.1329d,AAVSO,cataclysmic
+V358,Lyr,18 59,+42 24,UGWZ,15.7,<23.2V,,AAVSO,cataclysmic
+V493,Lyr,19 02,+42 54,UG,13.2,<17.2p,,AAVSO,cataclysmic
+V742,Lyr,18 38,+47 23,RCB,11.5,<17.5V,,AAVSO,cataclysmic
+ASASSN-14jv,Lyr,18 53,+42 04,UGWZ,11.3,19.3V,0.05442d,AAVSO,cataclysmic
+TCP J18154219+3515598,Lyr,18 16,+35 16,UGWZ,11.6,19.3V,,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+BX,Mon,07 25,-03 35 ,ZAND,9.5,12.5V,1259d,76.02,cataclysmic
+V616,Mon,06 23,-00 21,LMXB/XN+ELL,11,18.3V,0.323014d,AAVSO,cataclysmic
+V651,Mon,07 09,-00 48,Unique,11.29,15.28V,,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+RS,Oph,17 50,-06 43,NR+LB,4.3,12.5V,453.6d,24.02,cataclysmic
+V2110,Oph,17 40,-22 44,NC+SR,12,22,192.8d,,cataclysmic
+V2204,Oph,18 26,+11 55,TTS/ROT:,13.8,<14.6V,2.2635d,AAVSO,cataclysmic
+V2487,Oph,17 32,-19 14,NR,9.5,17.5V,,AAVSO,cataclysmic
+SDSS J172929.47+005404.3,Oph,17 29,+00 54,UGWZ,12.4,21.4V,0.05973d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+CN,Ori,05 52,-05 25,UGSS,11,16.2V,0.163199d,12.03,cataclysmic
+CZ,Ori,06 17,+15 24,UGSS,12.1,17.6V,0.2189d,13.03,cataclysmic
+V650,Ori,05 31,+09 45,UG:,15.5,<17.5p,,256.01,cataclysmic
+V2828,Ori,06 20,+19 27,UGWZ,12.8,20.5V,,,cataclysmic
+,,,,,,,,,cataclysmic
+AG,Peg,21 51,+12 38,ZAND+R,6,9.4V,816.5d,94.02,cataclysmic
+EF,Peg,21 15,+14 04,UGSU,10.7,18.5V,0.0837d,AAVSO,cataclysmic
+IP,Peg,23 23,+18 25,UG+E,12,18.6B,0.158206d,186.04,cataclysmic
+RU,Peg,22 14,+12 42   ,UGSS +ZZ,9,13.0V,0.3746d,14.03,cataclysmic
+V476,Peg,21 55,+35 70,UGSU,14,18.1B,0.0637,AAVSO,cataclysmic
+1RXS J213807.1+261958,Peg,21 38,+26 20,UGWZ,8.8,16.3V,0.05452d,AAVSO,cataclysmic
+PNV J21581852+2419246,Peg,21 58,+24 19,UGSU,14.1,19.8CR,,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+X,Per,03 55,+31 03,GCAS+HMXB+XP,6.02,6.83V,250.3d,277.01,cataclysmic
+AX,Per,01 36,+54 16 ,ZAND+E,9.5,12.8V,680.83d,73.02,cataclysmic
+DY,Per,02 35,+56 09,RCB/DYPER,10.5,16.0V,,AAVSO,cataclysmic
+GK,Per,03 31,+43 54,NA/DQ+UG,0.2,14V,1.886803d,130.03,cataclysmic
+QY,Per,03 16,+42 28,UGSU ,14,<20.0p,,AAVSO,cataclysmic
+TZ,Per,02 14,+58 23,UGZ,12,15.6V,0.262906d,15.03,cataclysmic
+UV,Per,02 10,+57 11,UGSU,11,18.2V,0.06489d,16.04,cataclysmic
+UW,Per,02 12,+57 06,UG:,14.9,17.5:V,,AAVSO,cataclysmic
+V336,Per,03 23,+41 37,UGSS,15.0CV,19.8V,,267.01,cataclysmic
+V518,Per,04 22,+32 54,LMXB/XN,13.15,<22.4V,0.21216d,AAVSO,cataclysmic
+NSV 895,Per,02 42,+43 21 ,UG or SN?,11.7,<20p,,AAVSO,cataclysmic
+NGC 1275,Per,03 20,+41 31,SEYFERT,,,,296.01,cataclysmic
+,,,,,,,,,cataclysmic
+EI,Psc,23 30,+06 28,UGSU,12.5,16.5V,0.044567d,AAVSO,cataclysmic
+HY,Psc,23 04,+01 07,UGSU,14.2,18.5CV,0.076743d,AAVSO,cataclysmic
+XY,Psc,01 10,+03 33,UGSU,13.1,21.1V,,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+V,Sge,20 20,+21 06,CBSS/V+E,8.6,13.9,0.514195d,AAVSO,cataclysmic
+AW,Sge,19 59,+16 41,UGSU,14,<19.6V,0.0724d,AAVSO,cataclysmic
+FG,Sge,20 12,+20 20 ,FF,8.7,23.0V,,203.02,cataclysmic
+HM,Sge,19 42,+16 45,NC+M,11.1,18.1B,535d,90.01,cataclysmic
+QW,Sge,19 46,+18 37,ZAND,11,12.8V,517d,91.01,cataclysmic
+RZ,Sge,20 03,+17 03,UGSU,12.3,17.7V,0.0682803d,AAVSO,cataclysmic
+SV,Sge,19 08,+17 38,RCB,10.3,16.5V,56.64d,71.02,cataclysmic
+WZ,Sge,20 08,+17 42 ,UGWZ+E+ZZ,7,15.3B,0.056687846d,23.01,cataclysmic
+,,,,,,,,,cataclysmic
+U,Sco,16 23,-17 52,NR+E,7.5,19.3V,1.2305522d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+EU,Sct,18 56,-04 13,NA,8.3pv,17.4V,,AAVSO,cataclysmic
+FS,Sct,18 58,-05 25,N,10.1,19.3p,,AAVSO,cataclysmic
+Lanning-17,Sct,18 23,-04 37,?,18.8,?,,234.01,cataclysmic
+NSV 24587,Sct,18 44,-05 00,N:,8,<22.0V,,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+FG,Ser,18 15,-00 19,ZAND+R,9.6,12.4V,633.5d,85.03,cataclysmic
+,,,,,,,,,cataclysmic
+SDSS J103533.03+055158.4,Sex,10 36,+05 52,UG+E,15.5,19.1B,0.0570067d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+T,Tau,04 22,+19 32,CTTS/ROT,9.3,13.5V,2.81d,351.01,cataclysmic
+BU,Tau,03 49,+24 08,GCAS+LERI+SPB,4.83,5.38V,12630d,1983Oct03,cataclysmic
+BW (3C120),Tau,04 33, +05 21,AGN,13.7B,16.4B,,320.01,cataclysmic
+RR,Tau,05 40,+26 22,UXOR,10.2,14.3V,,AAVSO,cataclysmic
+SU,Tau,05 49,+19 04,RCB,9.1,18.0V,44.68d,17.03,cataclysmic
+V701,Tau,03 44,+21 57,UGSU,14.1,<21.1V,,AAVSO,cataclysmic
+NSV 2026,Tau,05 30,+18 48,UGSU,13.2,18.0CV,,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+UW,Tri,02 45,+33 31 ,UGWZ,14.5,22.4V,0.05334d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+BC,UMa,11 52,+49 15,UGWZ,10.9,18.7V,0.06261d,AAVSO,cataclysmic
+BZ,UMa,08 54,+57 49,UGSU,10.5,15.3B,0.06799d,AAVSO,cataclysmic
+CH,UMa,10 07,+67 33,UG,10.6,16.0B,0.34318d,20.02,cataclysmic
+DV,UMa,09 47,+44 47 ,UGSU+E,14,19.8B,0.08585d,AAVSO,cataclysmic
+ER,UMa,09 47,+51 54,UGER,12.4,15.2V,0.06366d,AAVSO ,cataclysmic
+SU,UMa,08 12,+62 37,UGSU,10.8,16.0V,0.07635d,18.03,cataclysmic
+SW,UMa,08 37,+53 29,UGSU,9.7,16.5,,19.03,cataclysmic
+Markarian 421,UMa,11 05,+38 12,BLLAC,12.2,14,,243.01,cataclysmic
+SDSS J093249.57+472523.0,UMa,09 32,+47 25,UGSU+E,14.9,20.9CV,0.06630d,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+Z,UMi,15 02,+83 03,RCB,10.8,19.0V,,250.01,cataclysmic
+FBS 1719+834,UMi,17 13,+83 19,UG:,14,<20.0B,,AAVSO,cataclysmic
+FBS1735+825,UMi,17 30,+82 27,UG:,14,<20.0B,,AAVSO,cataclysmic
+,,,,,,,,,cataclysmic
+HV,Vir,13 21,+01 54,UGWZ,11.5,19.9V,0.057069d,AAVSO,cataclysmic
+3C 273,Vir,12 29,+02 03,AGN,12.4,13.2,,244.01,cataclysmic
+3C 279,Vir,12 53,-05 31,QSO,11,18.0p,,151.02,cataclysmic
+,,,,,,,,,cataclysmic
+PU,Vul,20 21,+21 34,NC,8.7,16.6p,,52.01,cataclysmic
+TY,Vul,20 42,+25 35,UGSU,14.00p,19.9V,0.0778d,AAVSO,cataclysmic
